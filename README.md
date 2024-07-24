@@ -57,13 +57,13 @@ Este é um projeto totalmente *OpenSource*, para usa-lo e modifica-lo você não
 
 *Durante a fase de desenvolvimento e testes este pacote deve ser instalado com:*
 ```bash
-composer require nfephp-org/sped-da:dev-master
+composer require ads-system/sped-da:dev-master
 ```
 
 *Ou ainda alterando o composer.json do seu aplicativo inserindo:*
 ```json
 "require": {
-    "nfephp-org/sped-da" : "dev-master"
+    "ads-system/sped-da" : "dev-master"
 }
 ```
 
@@ -74,12 +74,12 @@ composer require nfephp-org/sped-da:dev-master
 
 *Os stable realeases estão disponíveis (mas com algumas classes ainda em desenvolvimento), pode ser instalado com:*
 ```bash
-composer require nfephp-org/sped-da
+composer require ads-system/sped-da
 ```
 Ou ainda alterando o composer.json do seu aplicativo inserindo:
 ```json
 "require": {
-    "nfephp-org/sped-da" : "^0.3"
+    "ads-system/sped-da" : "^0.3"
 }
 ```
 
